@@ -33,5 +33,5 @@ Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um v
 Ich strebe eine Karriere im Bereich **IT-Security** an, mit einem besonderen Fokus auf **offensive Sicherheit**. Mein Ziel ist es, als **Pentester**, **Red Teamer** oder **Cybersecurity-Spezialist** Unternehmen dabei zu unterstützen, ihre Sicherheitslücken zu erkennen und zu schließen.
 
 ## 📬 Kontakt:
-📧 E-Mail: [david.hoffmannxd@gmail.com]  
+📧 E-Mail: david.hoffmannxd@gmail.com  
 🌐 Website: [www.softwaredeveloper-dh.com](http://www.softwaredeveloper-dh.com)

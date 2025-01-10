@@ -1,6 +1,6 @@
 # David Hoffmann – Softwareentwickler & angehender Pentester/ Sicherheitsexperte 🔐
 
-Hallo! Ich bin David, ein Softwareentwickler mit einem wachsenden Interesse an **Cybersecurity**, insbesondere im Bereich **Pentesting** und **Red Teaming**. Mein Ziel ist es, alle relevanten Bereiche der **IT-Sicherheit** zu erlernen und praxisnah anzuwenden – von der Analyse von Webanwendungen über Netzwerksicherheit bis hin zu Active Directory und Exploit-Entwicklung.
+Hallo. Ich bin David, ein Softwareentwickler mit einem wachsenden Interesse an **Cybersecurity**, insbesondere im Bereich **Pentesting** und **Red Teaming**. Mein Ziel ist es, alle relevanten Bereiche der **IT-Sicherheit** zu erlernen und praxisnah anzuwenden – von der Analyse von Webanwendungen über Netzwerksicherheit bis hin zu Active Directory und Exploit-Entwicklung.
 
 Derzeit bilde ich mich auf Plattformen wie **Hack The Box** und **TryHackMe** weiter, um realistische Szenarien zu durchlaufen und meine Fähigkeiten im Bereich offensiver Sicherheit aufzubauen. Dabei konzentriere ich mich darauf, Schwachstellen zu erkennen, Sicherheitslücken auszunutzen und daraus Strategien zur Abwehr von Angriffen abzuleiten.
 

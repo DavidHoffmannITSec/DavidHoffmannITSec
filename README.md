@@ -1,4 +1,4 @@
-# David Hoffmann – Softwareentwickler & angehender Pentester/ Sicherheitsexperte 🔐
+# David Hoffmann – Softwareentwickler & angehender Pentester/ Cyber Security Expert 🔐
 
 Hallo. Ich bin David, ein Softwareentwickler mit einem wachsenden Interesse an **Cybersecurity**, insbesondere im Bereich **Pentesting** und **Red Teaming**. Mein Ziel ist es, alle relevanten Bereiche der **IT-Sicherheit** zu erlernen und praxisnah anzuwenden – von der Analyse von Webanwendungen über Netzwerksicherheit bis hin zu Active Directory und Exploit-Entwicklung.
 

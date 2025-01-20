@@ -4,7 +4,7 @@ Hallo. Ich bin David, ein Softwareentwickler mit einem wachsenden Interesse an *
 
 Derzeit bilde ich mich auf Plattformen wie **Hack The Box** und **TryHackMe** weiter, um realistische Szenarien zu durchlaufen und meine Fähigkeiten im Bereich offensiver Sicherheit gezielt auszubauen. Mein Fokus liegt darauf, Schwachstellen effektiv zu erkennen, Sicherheitslücken gezielt auszunutzen und daraus Strategien zur präventiven Abwehr von Angriffen zu entwickeln. 
 
-Um meine Kenntnisse zu vertiefen und offiziell zu validieren, strebe ich Zertifizierungen wie **CompTIA Security+**, **CompTIA PenTest+**, **CEH (Certified Ethical Hacker)** und **OSCP (Offensive Security Certified Professional)** an. Darüber hinaus plane ich, fortgeschrittene Offensive-Security-Zertifikate wie **OSED (Offensive Security Exploit Developer)**, **OSEP (Offensive Security Experienced Penetration Tester)**, **OSWE (Offensive Security Web Expert)**, **OSCE3** und **OSEE (Offensive Security Exploitation Expert)** zu erwerben.
+Um meine Kenntnisse zu vertiefen, strebe ich Zertifizierungen wie **CompTIA Security+**, **CompTIA PenTest+**, **CEH (Certified Ethical Hacker)** und **OSCP (Offensive Security Certified Professional)** an. Darüber hinaus plane ich, fortgeschrittene Offensive-Security-Zertifikate wie **OSED (Offensive Security Exploit Developer)**, **OSEP (Offensive Security Experienced Penetration Tester)**, **OSWE (Offensive Security Web Expert)**, **OSCE3** und **OSEE (Offensive Security Exploitation Expert)** zu erwerben.
 
 ## 🎯 Meine Schwerpunkte:
 - **Web Application Security** | Erkennen von Schwachstellen wie SQL-Injection, XSS, CSRF und Remote Code Execution (RCE).  

@@ -34,9 +34,6 @@ Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um v
 </div>
 <br>
 
-- **Tools**: Nmap, Burp Suite, Metasploit, BloodHound, Responder, Hydra  
-- **Security-Fokus**: Web Security, Network Pentesting, Active Directory Attacks, Exploit Development  
-
 ## 🚀 Mein Ziel:
 Ich strebe eine Karriere im Bereich **IT-Security** an, mit einem besonderen Fokus auf **offensive Sicherheit**. Mein Ziel ist es, als **Pentester**, **Red Teamer** oder **Cybersecurity-Spezialist** Unternehmen dabei zu unterstützen, ihre Sicherheitslücken zu erkennen und zu schließen.
 

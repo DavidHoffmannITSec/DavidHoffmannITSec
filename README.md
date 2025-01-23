@@ -1,4 +1,4 @@
-# David Hoffmann – Softwareentwickler & angehender Pentester/ Cyber Security Expert 🔐
+# David Hoffmann – Softwareentwickler & angehender Cyber Security Experte/ Pentester 🔐
 
 Hallo. Ich bin David, ein Softwareentwickler mit einem wachsenden Interesse an **Cybersecurity**, insbesondere im Bereich **Pentesting** und **Red Teaming**. Mein Ziel ist es, alle relevanten Bereiche der **IT-Sicherheit** zu erlernen und praxisnah anzuwenden – von der Analyse von Webanwendungen über Netzwerksicherheit bis hin zu Active Directory und Exploit-Entwicklung.
 
@@ -21,7 +21,7 @@ Um meine Kenntnisse zu vertiefen, strebe ich Zertifizierungen wie **CompTIA Secu
 ## 💻 Praktische Weiterbildung:
 Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um verschiedene Angriffstechniken zu lernen und reale Herausforderungen zu meistern. Dabei dokumentiere ich meine Fortschritte und Erkenntnisse und arbeite daran, eigene Sicherheitsprojekte zu starten.
 
-## 🔧 Technische Fähigkeiten:
+## 🔧 Programmierung:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
@@ -32,6 +32,15 @@ Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um v
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/> <p>   und vieles mehr.</p>
 </div>
+
+## 🛠️ Kenntnisse:
+- **Active Directory**
+- **Firewalls**
+- **VPNs**
+- **Netzwerke und Protokolle**
+- **Server-Management**
+- **Virtualisierung**
+- **Windows und Linux (Debian)**
 
 ## 🚀 Mein Ziel:
 Ich strebe eine Karriere im Bereich **IT-Security** an, mit einem besonderen Fokus auf **offensive Sicherheit**. Mein Ziel ist es, als **Pentester**, **Red Teamer** oder **Cybersecurity-Spezialist** Unternehmen dabei zu unterstützen, ihre Sicherheitslücken zu erkennen und zu schließen.

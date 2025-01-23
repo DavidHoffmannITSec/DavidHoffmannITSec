@@ -7,13 +7,13 @@ Derzeit bilde ich mich auf Plattformen wie **Hack The Box** und **TryHackMe** we
 Um meine Kenntnisse zu vertiefen, strebe ich Zertifizierungen wie **CompTIA Security+**, **CEH (Certified Ethical Hacker)**, eCPPT(eLearnSecurity Certified Professional Penetration Tester) und **OSCP (Offensive Security Certified Professional)** an. Darüber hinaus plane ich, fortgeschrittene Offensive-Security-Zertifikate wie **OSED (Offensive Security Exploit Developer)**, **OSEP (Offensive Security Experienced Penetration Tester)**, **OSWE (Offensive Security Web Expert)** und **OSEE (Offensive Security Exploitation Expert)** zu erwerben.
 
 ## 🎯 Meine Schwerpunkte:
-- **Web Application Security** | Erkennen von Schwachstellen wie SQL-Injection, XSS, CSRF und Remote Code Execution (RCE).  
+- **Web Application Security** | Analyse und Absicherung von Webanwendungen basierend auf den OWASP Top 10.
 - **Network Pentesting** | Scannen und Exploiten von Netzwerken und Diensten, inklusive Enumeration und Schwachstellenanalyse.  
 - **Active Directory Security** | Durchführung von AD-Angriffen wie Kerberoasting, Pass-the-Hash und Privilege Escalation.  
 - **Exploit Development** | Erstellen von Proof-of-Concepts und Skripten zur Automatisierung von Sicherheitsprüfungen.  
 - **Social Engineering** | Verständnis für menschliche Schwachstellen und Manipulationstechniken.  
-- **Password Attacks** | Brute-Force, Password Spraying und Hash Cracking mit Tools wie John the Ripper und Hashcat.  
-- **Reverse Engineering** | Analyse von Binärdateien, Disassembling und Malware-Analyse.  
+- **Password Attacks** | Brute-Force, Password Spraying und Hash Cracking. 
+- **Reverse Engineering** | Untersuchung und Analyse von Software und Binärdateien, um Sicherheitslücken aufzudecken.
 - **Red Teaming** | Simulieren realistischer Angriffe und Sicherung des Zugangs durch Persistenztechniken.  
 - **Malware-Analyse & Entwicklung** | Entwickeln und Analysieren von Malware, um Sicherheitslücken zu identifizieren.  
 - **Kryptographie-Angriffe** | Durchführen von Timing-Angriffen, Padding-Oracles und Hash-Cracking.  

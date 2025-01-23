@@ -44,7 +44,7 @@ Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um v
 - **Powershell und Bash**
 
 ## 🚀 Mein Ziel:
-Ich strebe eine Karriere im Bereich **IT-Security** an, mit einem besonderen Fokus auf **offensive Sicherheit**. Mein Ziel ist es, als **Pentester**, **Red Teamer** oder **Cybersecurity-Spezialist** Unternehmen dabei zu unterstützen, ihre Sicherheitslücken zu erkennen und zu schließen.
+Ich strebe eine Karriere im Bereich **IT-Security** an, mit einem besonderen Fokus auf **offensive Sicherheit**. Mein Ziel ist es, als **Pentester**, **Red Teamer** oder **Cyber Security Experte** Unternehmen dabei zu unterstützen, ihre Sicherheitslücken zu erkennen und zu schließen.
 
 ## 📬 Kontakt:
 📧 E-Mail: david.hoffmannxd@gmail.com  

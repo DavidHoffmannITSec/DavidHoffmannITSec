@@ -40,7 +40,7 @@ Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um v
 - **Netzwerke und Protokolle**
 - **Server-Management**
 - **Virtualisierung**
-- **Windows und Linux (Debian)**
+- **Windows und Linux**
 
 ## 🚀 Mein Ziel:
 Ich strebe eine Karriere im Bereich **IT-Security** an, mit einem besonderen Fokus auf **offensive Sicherheit**. Mein Ziel ist es, als **Pentester**, **Red Teamer** oder **Cybersecurity-Spezialist** Unternehmen dabei zu unterstützen, ihre Sicherheitslücken zu erkennen und zu schließen.

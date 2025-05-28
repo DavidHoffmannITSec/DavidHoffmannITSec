@@ -1,10 +1,11 @@
-# David Hoffmann – Softwareentwickler & angehender Cyber Security Experte/ Pentester 🔐
+# David Hoffmann – IT Security Experte / Pentester / ISB und ehemaliger Softwareentwickler🔐
 
-Hallo. Ich bin David, ein Softwareentwickler mit einem wachsenden Interesse an **Cybersecurity**, insbesondere im Bereich **Pentesting** und **Red Teaming**. Mein Ziel ist es, alle relevanten Bereiche der **IT-Sicherheit** zu erlernen und praxisnah anzuwenden – von der Analyse von Webanwendungen über Netzwerksicherheit bis hin zu Active Directory und Exploit-Entwicklung.
-
+Hallo. Ich bin David, ein IT-Sicherheitsexperte im Bereich **Pentesting** und **ISMS**.
 Derzeit bilde ich mich auf Plattformen wie **Hack The Box** und **TryHackMe** weiter, um realistische Szenarien zu durchlaufen und meine Fähigkeiten im Bereich offensiver Sicherheit gezielt auszubauen. Mein Fokus liegt darauf, Schwachstellen effektiv zu erkennen, Sicherheitslücken gezielt auszunutzen und daraus Strategien zur präventiven Abwehr von Angriffen zu entwickeln. 
 
-Um meine Kenntnisse zu vertiefen, strebe ich Zertifizierungen wie **eJPT**, **CEH (Certified Ethical Hacker)**, eCPPT(eLearnSecurity Certified Professional Penetration Tester) und **OSCP (Offensive Security Certified Professional)** an. Darüber hinaus plane ich, fortgeschrittene Offensive-Security-Zertifikate wie **OSED (Offensive Security Exploit Developer)**, **OSEP (Offensive Security Experienced Penetration Tester)**, **OSWE (Offensive Security Web Expert)** zu erwerben. Ebenso die **CISM (Certified Information Security Manager)** und **CISSP (Certified Information Systems Security Professional)**.
+Außerdem bin ich aktiv dabei Zertifikate zu erlangen um mir tiefgehendes Wissen und Praxis anzueignen. Ich habe die Zertifikate **Informationssicherheitsbeauftragter (TÜV) nach ISO 27001** und den **eJPT (Junior Penetration Tester)** erlangt.
+
+Um meine Kenntnisse zu vertiefen, strebe ich Zertifizierungen wie **CEH (Certified Ethical Hacker)**, eCPPT(eLearnSecurity Certified Professional Penetration Tester) und **OSCP (Offensive Security Certified Professional)** an. Darüber hinaus plane ich, fortgeschrittene Offensive-Security-Zertifikate wie **OSED (Offensive Security Exploit Developer)**, **OSEP (Offensive Security Experienced Penetration Tester)**, **OSWE (Offensive Security Web Expert)** zu erwerben. Ebenso die **CISM (Certified Information Security Manager)** und **CISSP (Certified Information Systems Security Professional)**.
 
 ## 🎯 Meine Schwerpunkte:
 - **Web Application Security** | Analyse und Absicherung von Webanwendungen basierend auf den OWASP Top 10.

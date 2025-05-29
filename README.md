@@ -2,7 +2,7 @@
 
 # 👋 Hallo, ich bin David
 
-Ich bin ein **IT-Sicherheitsexperte** mit Schwerpunkt auf **Pentesting** und **ISMS**.
+Ich bin 24 und ein **IT-Sicherheitsexperte** mit Schwerpunkt auf **Pentesting** und **ISMS**.
 
 Derzeit bilde ich mich aktiv auf Plattformen wie **Hack The Box** und **TryHackMe** weiter, um realistische Szenarien durchzuspielen und meine Fähigkeiten in der offensiven Sicherheit gezielt zu erweitern.  
 Mein Fokus liegt auf dem **Erkennen von Schwachstellen**, dem **gezielten Ausnutzen von Sicherheitslücken** sowie der **Entwicklung präventiver Abwehrstrategien**.

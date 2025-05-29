@@ -1,33 +1,78 @@
 # David Hoffmann – IT Security Experte / Pentester / ISB und ehemaliger Softwareentwickler🔐
 
-Hallo. Ich bin David, ein IT-Sicherheitsexperte im Bereich **Pentesting** und **ISMS**.
-Derzeit bilde ich mich auf Plattformen wie **Hack The Box** und **TryHackMe** weiter, um realistische Szenarien zu durchlaufen und meine Fähigkeiten im Bereich offensiver Sicherheit gezielt auszubauen. Mein Fokus liegt darauf, Schwachstellen effektiv zu erkennen, Sicherheitslücken gezielt auszunutzen und daraus Strategien zur präventiven Abwehr von Angriffen zu entwickeln. 
+# 👋 Hallo, ich bin David
 
-Außerdem bin ich aktiv dabei Zertifikate zu erlangen um mir tiefgehendes Wissen und Praxis anzueignen. Ich habe die Zertifikate **Informationssicherheitsbeauftragter (TÜV) nach ISO 27001** und den **eJPT (Junior Penetration Tester)** erlangt.
+Ich bin ein **IT-Sicherheitsexperte** mit Schwerpunkt auf **Pentesting** und **ISMS**.
 
-Um meine Kenntnisse zu vertiefen, strebe ich Zertifizierungen wie **CEH (Certified Ethical Hacker)**, eCPPT(eLearnSecurity Certified Professional Penetration Tester) und **OSCP (Offensive Security Certified Professional)** an. Darüber hinaus plane ich, fortgeschrittene Offensive-Security-Zertifikate wie **OSED (Offensive Security Exploit Developer)**, **OSEP (Offensive Security Experienced Penetration Tester)**, **OSWE (Offensive Security Web Expert)** zu erwerben. Ebenso die **CISM (Certified Information Security Manager)** und **CISSP (Certified Information Systems Security Professional)**.
+Derzeit bilde ich mich aktiv auf Plattformen wie **Hack The Box** und **TryHackMe** weiter, um realistische Szenarien durchzuspielen und meine Fähigkeiten in der offensiven Sicherheit gezielt zu erweitern.  
+Mein Fokus liegt auf dem **Erkennen von Schwachstellen**, dem **gezielten Ausnutzen von Sicherheitslücken** sowie der **Entwicklung präventiver Abwehrstrategien**.
 
-## 🎯 Meine Schwerpunkte:
-- **Web Application Security** | Analyse und Absicherung von Webanwendungen basierend auf den OWASP Top 10.
-- **Network Pentesting** | Scannen und Exploiten von Netzwerken und Diensten, inklusive Enumeration und Schwachstellenanalyse.  
-- **Active Directory Security** | Durchführung von AD-Angriffen wie Kerberoasting, Pass-the-Hash und Privilege Escalation.  
-- **Exploit Development** | Erstellen von Proof-of-Concepts und Skripten zur Automatisierung von Sicherheitsprüfungen.  
-- **Social Engineering** | Verständnis für menschliche Schwachstellen und Manipulationstechniken.  
-- **Password Attacks** | Brute-Force, Password Spraying und Hash Cracking. 
-- **Reverse Engineering** | Untersuchung und Analyse von Software und Binärdateien, um Sicherheitslücken aufzudecken.
-- **Red Teaming** | Simulieren realistischer Angriffe und Sicherung des Zugangs durch Persistenztechniken.  
-- **Malware-Analyse & Entwicklung** | Entwickeln und Analysieren von Malware, um Sicherheitslücken zu identifizieren.  
-- **Kryptographie-Angriffe** | Durchführen von Timing-Angriffen, Padding-Oracles und Hash-Cracking.  
 
-## 💻 Praktische Weiterbildung:
-Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um verschiedene Angriffstechniken zu lernen und reale Herausforderungen zu meistern. Dabei dokumentiere ich meine Fortschritte und Erkenntnisse und arbeite daran, eigene Sicherheitsprojekte zu starten.
+
+## 🛡️ Zertifizierungen
+
+Ich bin bestrebt, mein Wissen durch fundierte Aus- und Weiterbildungen zu vertiefen und habe bereits folgende Zertifikate erworben:
+
+- **Informationssicherheitsbeauftragter (TÜV)** nach **ISO 27001**
+- **eJPT (eLearnSecurity Junior Penetration Tester)**
+
+
+### 🔜 Geplante Zertifizierungen
+- **CEH** – Certified Ethical Hacker  
+- **eCPPT** – eLearnSecurity Certified Professional Penetration Tester  
+- **OSCP** – Offensive Security Certified Professional  
+- **OSEP** – Offensive Security Experienced Penetration Tester  
+- **OSWE** – Offensive Security Web Expert  
+- **OSED** – Offensive Security Exploit Developer  
+- **CISSP** – Certified Information Systems Security Professional  
+- **ISO 27001 Auditor**
+
+---
+
+## 🎯 Meine Schwerpunkte
+
+- **Web Application Security**  
+  Analyse und Absicherung von Webanwendungen auf Basis der **OWASP Top 10**
+
+- **Network Pentesting**  
+  Scannen, Enumeration und Exploitation von Netzwerken und Diensten
+
+- **Active Directory Security**  
+  Durchführung von Angriffen wie **Kerberoasting**, **Pass-the-Hash** und **Privilege Escalation**
+
+- **Exploit Development**  
+  Entwicklung von Proof-of-Concepts und Automatisierung von Sicherheitsprüfungen
+
+- **Social Engineering**  
+  Analyse und Verständnis menschlicher Schwachstellen und Manipulationstechniken
+
+- **Password Attacks**  
+  Brute-Force, Password Spraying und Hash Cracking
+
+- **Red Teaming**  
+  Simulation realistischer Angriffe inklusive Persistenztechniken
+
+---
+
+## 💻 Praktische Weiterbildung
+
+Ich nehme aktiv an **CTF-Plattformen** wie **Hack The Box** und **TryHackMe** teil, um:
+
+- praxisnahe Angriffstechniken zu erlernen  
+- komplexe Szenarien zu meistern  
+- meine Fortschritte zu dokumentieren  
+- eigene Sicherheitsprojekte zu entwickeln
+
+---
+
+> Mein Ziel ist es, Sicherheitslücken nicht nur zu finden, sondern nachhaltige Lösungen zu schaffen – durch fundiertes Wissen, praktische Erfahrung und kontinuierliche Weiterbildung.
+
 
 ## 🔧 Programmierung:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS"/>
@@ -35,17 +80,29 @@ Ich nehme aktiv an **CTF-Plattformen** wie Hack The Box und TryHackMe teil, um v
 </div>
 
 ## 🛠️ Kenntnisse:
+### 🖥️ Administration:
 - **Active Directory**
-- **Firewalls**
-- **VPNs**
-- **Netzwerke und Protokolle**
-- **Server-Management**
-- **Virtualisierung**
-- **Windows und Linux**
+- **VPNs, Virtualisierung, Firewalls**
+- **Netzwerke, Protokolle und Server-Management**
+- **Windows und Linux (Debian)**
 - **Powershell und Bash**
 
-## 🚀 Mein Ziel:
-Ich strebe eine Karriere im Bereich **IT-Security** an, mit einem besonderen Fokus auf **offensive Sicherheit**. Mein Ziel ist es, als **Pentester**, **Red Teamer** oder **Cyber Security Experte** Unternehmen dabei zu unterstützen, ihre Sicherheitslücken zu erkennen und zu schließen.
+### 🧪 Pentesting:
+- **Scanning, Enumeration, Information Gathering
+- **OWASP Top 10, Webanwendungssicherheit
+- **Exploiten von Netzwerk Services, Schwachstellenanalyse
+- **Brute-force, Hash-cracking
+- **Pass-The-Hash, Pivoting, Privilage Escalation, Persistence
+- **Phishing, Social engineering
+
+### 📋 ISMS (Informationssicherheits-Management):
+- **ISO/IEC 27001 Umsetzung**
+- **Sicherheitsrichtlinien & Dokumentation**
+- **Awareness-Schulungen & Sicherheitskultur**
+- **Grundlagen interner Audits & Vorbereitung externer Prüfungen**
+- **Compliance & Datenschutz (z. B. DSGVO)**
+- **Ganzheitliches Verständnis von ISMS-Strukturen und -Abläufen**
+  
 
 ## 📬 Kontakt:
 📧 E-Mail: david.hoffmannxd@gmail.com  

@@ -88,12 +88,12 @@ Ich nehme aktiv an **CTF-Plattformen** wie **Hack The Box** und **TryHackMe** te
 - **Powershell und Bash**
 
 ### 🧪 Pentesting:
-- **Scanning, Enumeration, Information Gathering
-- **OWASP Top 10, Webanwendungssicherheit
-- **Exploiten von Netzwerk Services, Schwachstellenanalyse
-- **Brute-force, Hash-cracking
-- **Pass-The-Hash, Pivoting, Privilage Escalation, Persistence
-- **Phishing, Social engineering
+- **Scanning, Enumeration, Information Gathering**
+- **OWASP Top 10, Webanwendungssicherheit**
+- **Exploiten von Netzwerk Services, Schwachstellenanalyse**
+- **Brute-force, Hash-cracking**
+- **Pass-The-Hash, Pivoting, Privilage Escalation, Persistence**
+- **Phishing, Social engineering**
 
 ### 📋 ISMS (Informationssicherheits-Management):
 - **ISO/IEC 27001 Umsetzung**

@@ -106,4 +106,3 @@ Ich nehme aktiv an **CTF-Plattformen** wie **Hack The Box** und **TryHackMe** te
 
 ## 📬 Kontakt:
 📧 E-Mail: david.hoffmannxd@gmail.com  
-🌐 Website: [www.softwaredeveloper-dh.com](http://www.softwaredeveloper-dh.com)
